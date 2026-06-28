@@ -65,3 +65,6 @@ Project
 - Board: NUCLEO-F401RE
 - Toolchain: STM32CubeIDE 2.1.1
 - RTOS: FreeRTOS via CMSIS-RTOS v2
+
+
+<img src="https://github.com/user-attachments/assets/1d25194e-a3f8-4159-946c-7907d26e076b" width="35%" height="auto">
